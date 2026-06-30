@@ -1,0 +1,5 @@
+shell-integration = fish
+
+theme = "Modus Vivendi"
+
+font-family = IBM Plex Mono
